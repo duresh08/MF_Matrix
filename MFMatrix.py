@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-import openpyxl
 
 SHEET_ID = '1tUmm4rh-BH53wd8d5xCug9OSYMxqd6CB'
 SHEET_NAME = ['Rank','Data','Code']
